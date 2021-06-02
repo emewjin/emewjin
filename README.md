@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emewjin
+- 👋 Hi, I’m @emewjin
 - 👀 I’m interested in Frontend Engineer
 - 🌱 I’m currently learning Javascript, React, HTML, CSS
 - 📚 My Study Log : [Blog](https://velog.io/@1703979)
