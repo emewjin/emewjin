@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @emewjin
-- 👀 I’m interested in Frontend Engineer
-- 🌱 I’m currently learning Javascript, React, HTML, CSS
-- 📚 My Study Log : [Blog](https://velog.io/@1703979)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=emewjin&fontSize=40&animation=fadeIn&fontAlignY=40)
+<div align='center'>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<a href="https://velog.io/@1703979"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>   
+  
+    
+👋 Hi, I’m @emewjin  
+👀 I’m interested in Frontend Engineer  
+🌱 I’m currently learning Javascript, React, HTML, CSS  
+  
+[![emewjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=emewjin&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emewjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  
+
+</div>
 
 <!---
 Emewjin/Emewjin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
