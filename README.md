@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=emewjin&fontSize=40&animation=fadeIn&fontAlignY=40)
 <div align='center'>
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -9,7 +8,7 @@
 👀 I’m interested in Frontend Engineer  
 🌱 I’m currently learning Javascript, React, HTML, CSS  
   
-[![emewjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=emewjin&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![emewjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=emewjin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emewjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
