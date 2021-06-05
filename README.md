@@ -9,9 +9,7 @@
 🌱 I’m currently learning Javascript, React, HTML, CSS  
   
 [![emewjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=emewjin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emewjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![emewjin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emewjin)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
