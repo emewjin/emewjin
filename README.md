@@ -5,8 +5,8 @@
   
     
 👋 Hi, I’m @emewjin  
-👀 I’m interested in Frontend Engineer  
-🌱 I’m currently learning Javascript, React, HTML, CSS  
+👀 I’m interested in Frontend Developer  
+🌱 I’m currently learning Core Javascript, Vue, React, HTML, CSS  
   
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37204%20lines%20of%20code-blue)
