@@ -3,7 +3,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <a href="https://velog.io/@1703979"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>   
   
-    
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
+
+ 
 👋 Hi, I’m @emewjin, Frontend Developer  
 🌱 I’m currently learning Core Javascript, Vue, React, HTML, CSS  
   
@@ -44,9 +46,7 @@ Linux                    24 hrs 24 mins      ███████████�
 
  Last Updated on 18/06/2021
 <!--END_SECTION:waka-->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
-
-  </div>
+ </div>
 <!---
 Emewjin/Emewjin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
