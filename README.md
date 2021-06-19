@@ -4,8 +4,7 @@
 <a href="https://velog.io/@1703979"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>   
   
     
-👋 Hi, I’m @emewjin  
-👀 I’m interested in Frontend Developer  
+👋 Hi, I’m @emewjin, Frontend Developer  
 🌱 I’m currently learning Core Javascript, Vue, React, HTML, CSS  
   
 <!--START_SECTION:waka-->
