@@ -44,6 +44,8 @@ Linux                    24 hrs 24 mins      ███████████�
 
  Last Updated on 18/06/2021
 <!--END_SECTION:waka-->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
+
   </div>
 <!---
 Emewjin/Emewjin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
