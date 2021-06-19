@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <a href="https://velog.io/@1703979"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>   
   
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
 
  
 👋 Hi, I’m @emewjin, Frontend Developer  
