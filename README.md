@@ -1,13 +1,17 @@
 <div align='center'>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<a href="https://velog.io/@1703979"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>   
   
+### 👋🏻 Hi, I’m @emewjin, Frontend Developer 
+I’m currently learning 🌱 
+    
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+
+### 👇🏻 Blog about my study log
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
 
- 
-👋 Hi, I’m @emewjin, Frontend Developer  
-🌱 I’m currently learning Core Javascript, Vue, React, HTML, CSS  
+
+### 👇🏻 My wakatime stats  
   
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-19064%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
