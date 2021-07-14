@@ -8,6 +8,8 @@ I’m currently learning 🌱
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
 ### 👇🏻 Blog about my study log
+  [🏃🏻Link to new blog](https://emewjin.github.io/)  
+  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
 
 
