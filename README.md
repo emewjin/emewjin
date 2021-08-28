@@ -10,9 +10,6 @@ I’m currently learning 🌱
 ### 👇🏻 Blog about my study log
   [🏃🏻Link to new blog](https://emewjin.github.io/)  
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1703979&tag=javascript)](https://github.com/eungyeole/velog-readme-stats)
-
-
 ### 👇🏻 My wakatime stats  
   
 <!--START_SECTION:waka-->
