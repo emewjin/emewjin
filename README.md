@@ -1,5 +1,7 @@
 <div align='center'>
  
+👇🏻 저는 아침형 인간이 아니예요... 🙊
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C408%20hrs-blue)
 
