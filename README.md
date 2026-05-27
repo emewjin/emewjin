@@ -1,7 +1,7 @@
 <div align='center'>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C182%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C183%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.95%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -21,22 +21,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               7 hrs 20 mins       ███████████████░░░░░░░░░░   58.49 % 
-Markdown                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+TypeScript               5 hrs 38 mins       ██████████████░░░░░░░░░░░   56.52 % 
+Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 에디터들: 
-Cursor                   9 hrs 16 mins       ███████████████████░░░░░░   74.03 % 
-Claude Code              3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Cursor                   6 hrs 50 mins       █████████████████░░░░░░░░   68.52 % 
+Claude Code              3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
 
 💻 운영 체제들: 
-Mac                      12 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 19:22:03 UTC
+ Last Updated on 27/05/2026 19:23:04 UTC
 <!--END_SECTION:waka-->
  </div>
 <!---
