@@ -23,49 +23,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 5 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.74 % 
-TypeScript               2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Go                       1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Markdown                 3 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.95 % 
+TypeScript               2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
+Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 에디터들: 
-Claude Code              6 hrs 18 mins       █████████████░░░░░░░░░░░░   52.05 % 
-Cursor                   3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Codex Vscode             1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              3 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.90 % 
+Cursor                   2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
+Codex Vscode             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 💻 운영 체제들: 
-Mac                      12 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 6 mins (99.94%)
+⏱ AI Coding Time: 7 hrs 12 mins (100.0%)
 
-✍️ 3,914 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,844 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 27,259,828 Input Tokens, 2,569,170 Output Tokens
+🔤 20,811,812 Input Tokens, 2,002,546 Output Tokens
 
-💵 $748.58 Estimated AI Cost This Week
+💵 $573.39 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 517 AI Prompts
+🧠 63 AI Sessions, 381 AI Prompts
 
-GPT                      3,315 lines         █████████████████████░░░░   83.52 % 
-Fable                    413 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Opus                     195 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Composer                 46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+GPT                      2,419 lines         █████████████████████░░░░   83.56 % 
+Fable                    413 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Composer                 46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Opus                     17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,617 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 8,904 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 21:36:45 UTC
+ Last Updated on 28/09/2026 23:31:24 UTC
 <!--END_SECTION:waka-->
  </div>
 <!---
