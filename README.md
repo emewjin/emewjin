@@ -23,33 +23,33 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-Other                    47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-TypeScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-JavaScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Markdown                 51 mins             ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Other                    43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+TypeScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+JavaScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 
 🔥 에디터들: 
-Claude Code              2 hrs 16 mins       █████████████████░░░░░░░░   69.06 % 
-Codex Vscode             50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Cursor                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Claude Code              2 hrs 12 mins       █████████████████░░░░░░░░   68.44 % 
+Codex Vscode             50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Cursor                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 17 mins (99.72%)
+⏱ AI Coding Time: 3 hrs 13 mins (99.71%)
 
 ✍️ 550 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,540,513 Input Tokens, 443,823 Output Tokens
+🔤 5,190,031 Input Tokens, 435,826 Output Tokens
 
-💵 $89.89 Estimated AI Cost This Week
+💵 $87.59 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 77 AI Prompts
+🧠 19 AI Sessions, 75 AI Prompts
 
 GPT                      235 lines           ███████████░░░░░░░░░░░░░░   42.73 % 
 Opus                     216 lines           ██████████░░░░░░░░░░░░░░░   39.27 % 
@@ -57,13 +57,13 @@ Fable                    99 lines            ████░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,453 characters per prompt
+📄 Detailed Prompter — average 1,490 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 21:42:31 UTC
+ Last Updated on 16/10/2026 21:34:32 UTC
 <!--END_SECTION:waka-->
  </div>
 <!---
